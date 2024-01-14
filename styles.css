@@ -1,0 +1,36 @@
+.main-header{
+     padding: 100px;
+}
+nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: baseline;
+     color: black;
+     width: 1730px;
+    
+
+}
+.Intleneer{
+     width: 500px;
+}
+nav > ul{
+     display
+     : flex;
+}
+
+nav li{
+     list-style: none;
+     margin-right: 30px;
+     font-size: 15px;
+     font-weight: 500;
+}
+ .camera{
+     margin-top: 150px;
+     display: flex;
+     justify-content: space-between;
+   
+} 
+.main-camera{
+     margin-top: -100px;
+     background-image: url(images/Circle\ design.svg);
+}
