@@ -22,3 +22,41 @@ nav li {
      list-style: none;
      margin: 20px;
 }
+/* tex-title */
+.tex-title{
+     font-size: 50px;
+}
+.paimari-button{
+     background-color: hotpink;
+     font-size: 20px;
+     border-radius: 10px;
+
+}
+
+.section-1{
+     display: flex;
+     justify-content: space-between;
+    
+     
+}
+
+
+.img-bragoran{
+     background-image: url('images/Circle\ design.svg');
+}
+
+
+.content-img{
+     padding: 120px;
+
+}
+
+.content{
+     display: flex;
+    
+     margin-top: 50px;
+     gap: 150px;
+     
+}
+
+/* min section styles */
