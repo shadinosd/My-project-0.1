@@ -72,19 +72,10 @@ nav li {
     margin-top: -100px;
     gap: 50px;
     justify-content: center;
+    display: flex;
 }
 
-.main-1{
-  display: flex;
-     /* gap: 20px; */
-}
-/* .img-file{
-     background-color: darkgray;
-     width: 300px;
-} */
-img{
-    
-}
+
 
 .main-2{
      padding: 200px;
@@ -122,13 +113,18 @@ img{
 }
 
 .footer{
-     background-color:indigo;
+     background-color:darkgray;
+     height: 300px;
+     text-align: center;
+     align-items: center;
+     
+   
+
 }
 
 .footer-1{
-     te
+     align-items: center;
 }
 
-.footer-1{
-     color: ;
-}
+
+
