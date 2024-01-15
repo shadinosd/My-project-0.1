@@ -1,36 +1,24 @@
-.main-header{
-     padding: 100px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+*{
+     font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+/* header styles */
+header{
+     color: black;
+     padding: 50px 200px;
 }
 nav{
      display: flex;
      justify-content: space-between;
-     align-items: baseline;
-     color: black;
-     width: 1730px;
-    
+}
 
-}
-.Intleneer{
-     width: 500px;
-}
 nav > ul{
-     display
-     : flex;
+     display: flex;
 }
 
-nav li{
+nav li {
      list-style: none;
-     margin-right: 30px;
-     font-size: 15px;
-     font-weight: 500;
-}
- .camera{
-     margin-top: 150px;
-     display: flex;
-     justify-content: space-between;
-   
-} 
-.main-camera{
-     margin-top: -100px;
-     background-image: url(images/Circle\ design.svg);
+     margin: 20px;
 }
